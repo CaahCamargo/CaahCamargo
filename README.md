@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="http://www.uniararas.br/">FHO</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedora FullStack na <a href="https://www.supersoft.com.br/">SuperSoft Sistemas</a>
+- 💼 &nbsp; Trabalhando como Desenvolvedora Full Stack na <a href="https://www.supersoft.com.br/">SuperSoft Sistemas</a>
 - 🌱 &nbsp; Aprendendo mais sobre Next.js.
 
 </p>
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
  -->
 <p align="left">
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/caroline-camargo-b5b1bb197/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/caah._.camargo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
