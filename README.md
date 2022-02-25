@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="http://www.uniararas.br/">FHO</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedora Full Stack na <a href="https://www.supersoft.com.br/">SuperSoft Sistemas</a>
+- 💼 &nbsp; Trabalhando na <a href="https://www.supersoft.com.br/">SuperSoft Sistemas</a>
 - ⭐ &nbsp; Front-end developer
 - 🌱 &nbsp; Aprendendo mais sobre C#.
 
