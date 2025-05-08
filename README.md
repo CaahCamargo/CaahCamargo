@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Caroline de Camargo
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Sistemas de Informação na <a href="http://www.uniararas.br/">FHO</a>.
+- 🎓 &nbsp; Graduada em Sistemas de Informação na <a href="http://www.uniararas.br/">FHO</a>.
 - 💼 &nbsp; Trabalhando na <a href="https://www.supersoft.com.br/">SuperSoft Sistemas</a>
-- ⭐ &nbsp; Front-end developer
+- ⭐ &nbsp; Front-end developer - Web Design 
 - 🌱 &nbsp; Aprendendo mais sobre C#.
 
 </p>
